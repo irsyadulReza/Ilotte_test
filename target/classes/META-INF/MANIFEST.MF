@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: SpringBootRestApiExample
+Implementation-Version: 1.0.0
+Built-By: emerio
+Implementation-Vendor-Id: com.ilotte.reza
+Build-Jdk: 1.8.0_161
+Implementation-URL: http://projects.spring.io/spring-boot/Ilotte/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
